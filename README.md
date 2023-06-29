@@ -17,4 +17,4 @@
 ![SublimeText](https://img.shields.io/badge/SublimeText-FF9800.svg?&style=for-the-badge&logo=SublimeText&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
-![footer](https://capsule-render.vercel.app/api?type=Waving&height=150&color=timeAuto&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=100&section=footer)
