@@ -4,10 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=0066e1&center=true&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=6eom9eun's%20GitHub!%20👋)](https://git.io/typing-svg)
 
-## SNS
-<a href="https://velog.io/@6eom9eun" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
-<a href="https://www.instagram.com/6eom9eun/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-<a href="mailto:ggoon98@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiholee0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/6eom9eun)
+
 ## Languages
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
@@ -16,5 +14,10 @@
 ## Tools
 ![SublimeText](https://img.shields.io/badge/SublimeText-FF9800.svg?&style=for-the-badge&logo=SublimeText&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+
+## SNS
+<a href="https://velog.io/@6eom9eun" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
+<a href="https://www.instagram.com/6eom9eun/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="mailto:ggoon98@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 
 ![footer](https://capsule-render.vercel.app/api?type=Waving&color=0066e1&height=100&section=footer)
