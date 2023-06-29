@@ -24,7 +24,7 @@
 <div align="right">
 <br><br><br>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F6eom9eun&count_bg=%230066E1&title_bg=%23303030&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://gitbub/6eome9eun)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F6eom9eun&count_bg=%230066E1&title_bg=%23303030&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://gitbub.com/6eome9eun)
 </div>
 
 
