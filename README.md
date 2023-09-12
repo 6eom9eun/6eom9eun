@@ -5,6 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=0066e1&center=true&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=6eom9eun's%20GitHub!%20👋)](https://git.io/typing-svg)
 
 <h3>Tech Stack</h3>
+<!-- https://simpleicons.org/ -->
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
@@ -14,6 +15,7 @@
 ![nodedotjs](https://img.shields.io/badge/nodedotjs-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ![react](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)
+![flutter](https://img.shields.io/badge/flutter-02569B.svg?&style=for-the-badge&logo=flutter&logoColor=white)
 
 ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ggoon98)
 
