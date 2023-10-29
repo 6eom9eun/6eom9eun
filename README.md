@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0066e1&height=100)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=0066e1&center=true&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=6eom9eun's%20GitHub!%20👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=6000&pause=3&color=0066e1&center=true&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=6eom9eun's%20GitHub!%20👋)](https://git.io/typing-svg)
 
 <h3>Tech Stack</h3>
 <!-- https://simpleicons.org/ -->
