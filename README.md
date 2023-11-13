@@ -22,13 +22,15 @@
 ![firebase](https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black)
 ![mongodb](https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 
-![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ggoon98)
-
 <h3>Tools</h3>
 
 ![SublimeText](https://img.shields.io/badge/SublimeText-FF9800.svg?&style=for-the-badge&logo=SublimeText&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![jupyter](https://img.shields.io/badge/jupyter-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ggoon98)
 
 <h3>SNS</h3>
 <a href="https://velog.io/@6eom9eun" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
