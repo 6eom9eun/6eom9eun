@@ -25,7 +25,6 @@
 
 <h3>Tools</h3>
 
-![SublimeText](https://img.shields.io/badge/SublimeText-FF9800.svg?&style=for-the-badge&logo=SublimeText&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![jupyter](https://img.shields.io/badge/jupyter-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white)
 
