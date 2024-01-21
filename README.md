@@ -30,7 +30,7 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![jupyter](https://img.shields.io/badge/jupyter-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white)
-
+![Google Colab](https://img.shields.io/badge/GoogleColab-F9AB00.svg?&style=for-the-badge&logo=GoogleColab&logoColor=white)
 ---
 
 ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ggoon98)
