@@ -36,7 +36,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6eom9eun&layout=compact)](https://github.com/6eom9eun/github-readme-stats) ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ggoon98)
 
-<h3>SNS</h3>
+<h3>BLOG & SNS</h3>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=6eom9eun)](https://velog.io/@6eom9eun)
 
