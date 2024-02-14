@@ -34,7 +34,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6eom9eun&layout=compact)](https://github.com/6eom9eun/github-readme-stats) ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ggoon98)
+![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ggoon98)
 
 <h3>BLOG & SNS</h3>
 
