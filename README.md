@@ -38,8 +38,6 @@
 
 <h3>BLOG & SNS</h3>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=6eom9eun)](https://velog.io/@6eom9eun)
-
 <a href="https://www.instagram.com/6eom9eun/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 <a href="mailto:ggoon98@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 
