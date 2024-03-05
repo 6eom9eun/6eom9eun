@@ -3,13 +3,13 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0066e1&height=100)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=6000&pause=3&color=0066e1&center=true&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=6eom9eun's%20GitHub!%20👋)](https://git.io/typing-svg)
-
-<h3>Tech Stack</h3>
 <!-- https://simpleicons.org/ -->
 
+<h3>Main OS</h3>
+
 ![apple](https://img.shields.io/badge/macos-000000.svg?&style=for-the-badge&logo=apple&logoColor=white)
-![windows](https://img.shields.io/badge/windows-0078D4.svg?&style=for-the-badge&logo=windows&logoColor=white)
-![raspberrypi](https://img.shields.io/badge/raspberrypi-A22846.svg?&style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+<h3>Tech Stack</h3>
 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
