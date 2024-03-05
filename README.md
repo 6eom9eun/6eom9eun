@@ -7,7 +7,7 @@
 
 <h3>Main OS</h3>
 
-![apple](https://img.shields.io/badge/macos-000000.svg?&style=for-the-badge&logo=apple&logoColor=white)
+![apple](https://img.shields.io/badge/macos-ffffff.svg?&style=for-the-badge&logo=apple&logoColor=black)
 
 <h3>Tech Stack</h3>
 
