@@ -5,6 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=6000&pause=3&color=0066e1&center=true&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=6eom9eun's%20GitHub!%20👋)](https://git.io/typing-svg)
 <!-- https://simpleicons.org/ -->
 
+<!-- **
 |Main OS|
 |:---:|
 |![apple](https://img.shields.io/badge/macos-ffffff.svg?&style=for-the-badge&logo=apple&logoColor=black)|
@@ -17,7 +18,7 @@
 ![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)![Javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![amazonaws](https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)![amazons3](https://img.shields.io/badge/amazons3-569A31.svg?&style=for-the-badge&logo=amazons3&logoColor=white)![amazonec2](https://img.shields.io/badge/amazonec2-FF9900.svg?&style=for-the-badge&logo=amazonec2&logoColor=white)![docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)![rabbitmq](https://img.shields.io/badge/rabbitmq-FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)|
-
+** -->
 
 
 <!-- ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ggoon98) -->
